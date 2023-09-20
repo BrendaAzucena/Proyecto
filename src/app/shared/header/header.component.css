@@ -1,0 +1,21 @@
+.color1{
+    background-color: #691831;
+    color: white;
+}
+
+.posicion{
+    width: 300px;
+	height: 100px;
+    object-fit: scale-down;
+    
+}
+
+.posicion1{
+    width: 200px;
+	height: 100px;
+    object-fit: scale-down;
+}
+
+.tma{
+    font-size: 30px;
+}
